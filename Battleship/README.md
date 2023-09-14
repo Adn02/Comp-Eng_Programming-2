@@ -5,7 +5,7 @@ This program will include:
 - Random number generator
 - Loop
 - Branching
-- 
+
 1. The user will determine which level they would like to play
 easy(e), medium(m) or hard(h). These will determine the size of
 the board.
